@@ -11,3 +11,4 @@ def collatz():
         print(int(number))
 collatz()
 
+#modified
