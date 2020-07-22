@@ -45,3 +45,4 @@ stream.stop_stream()
 stream.close()
 
 p.terminate()
+# check the difference by git diff
